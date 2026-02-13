@@ -116,9 +116,7 @@ Selected from **80+ competing teams**, showcasing strong innovation and technica
 ## 🌐 Let's Connect
 
 📧 **Email:** nikhilj617310@gmail.com  
-💼 **LinkedIn:** *(Add your link here)*  
-🐙 **GitHub:** *(Add your link here)*  
-
+💼 **LinkedIn:** *((https://www.linkedin.com/in/nikhil-singhvi-472513230/))*   
 ---
 
 ⭐ *Always open to internships, collaborations, and exciting technical opportunities!*
